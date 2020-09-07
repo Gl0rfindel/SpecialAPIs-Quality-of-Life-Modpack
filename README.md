@@ -1,2 +1,2 @@
 # SpecialAPIs Quality of Life Modpack
- SpecialAPI's Quality of Life Modpack is a collection of QoL mods.
+ SpecialAPI's Quality of Life Modpacks is a collection of small QoL mods.
