@@ -1,0 +1,16 @@
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\RatDoesntStealAmmo.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\RatDoesntStealAmmo.pdb
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\Assembly-CSharp.Base.mm.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\Assembly-CSharp.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\MonoMod.Utils.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\PlayMaker.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\UnityEngine.CoreModule.Base.mm.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\UnityEngine.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\obj\Debug\RatDoesntStealAmmo.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\obj\Debug\RatDoesntStealAmmo.csproj.CopyComplete
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\obj\Debug\RatDoesntStealAmmo.dll
+C:\Users\Andrey\source\repos\RatDoesntStealAmmo\obj\Debug\RatDoesntStealAmmo.pdb
